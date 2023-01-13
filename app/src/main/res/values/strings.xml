@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tugas4ReactiveProgramming</string>
+
+    <string name="email_not_valid">Email Not Valid</string>
+    <string name="pass_length_less_then_8">Password Length Less Then 8</string>
+</resources>
